@@ -1,9 +1,10 @@
 # Política de Privacidad de FiniquitApp
 
-Esta Política de Privacidad describe cómo FiniquitApp recopila, utiliza y protege la información personal que pueda recoger cuando utiliza nuestra aplicación de cálculo de finiquitos y liquidaciones en México. La privacidad de nuestros usuarios es de suma importancia para nosotros y estamos comprometidos en proteger sus datos personales. Por favor, lea atentamente esta Política de Privacidad para entender cómo manejamos su información.
+Esta Política de Privacidad describe cómo FiniquitApp utiliza la información ingresada por el usuario cuando usa nuestra aplicación de cálculo de finiquitos y liquidaciones en México. La privacidad de nuestros usuarios es de suma importancia para nosotros. Por favor, lea atentamente esta Política de Privacidad para entender cómo manejamos la información.
 
-### Información Recopilada
-No recopilamos ningún tipo de información personal o sensible de los usuarios a través de la Aplicación. No solicitamos ni almacenamos nombres, direcciones de correo electrónico, números de teléfono, direcciones físicas u otros datos personales sensibles.
+### Información Ingresada
+No recopilamos ningún tipo de información personal o sensible de los usuarios a través de la Aplicación. La información ingresada por medio de los formularios es únicamente para realizar las operaciones necesarias para el funcionamiento de la aplicación, por lo tanto,
+esta información no se recopila, no se almacena y no se comparte con nosotros (desarrolladores/FiniquitApp/BisonTek MC) ni con terceros.
 
 ### Uso de la Información
 Debido a que no recopilamos información personal o sensible, no utilizamos ninguna información de identificación personal para ningún propósito. La Aplicación solo realiza cálculos automáticos de finiquitos y liquidaciones en México con los datos proporcionados por el usuario en la misma aplicación sin transmitir ni almacenar dichos datos.
