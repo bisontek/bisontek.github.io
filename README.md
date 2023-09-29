@@ -18,6 +18,10 @@ Aunque no recopilamos información personal o sensible, tomamos medidas razonabl
 ### Cambios en la Política de Privacidad
 Nos reservamos el derecho de actualizar o modificar esta Política de Privacidad en cualquier momento, y cualquier cambio significativo se reflejará en la fecha de vigencia indicada al comienzo de la Política de Privacidad. Le recomendamos que revise periódicamente esta Política de Privacidad para estar al tanto de cualquier cambio que pueda afectar su privacidad.
 
+## Legal
+FiniquitApp no es una aplicación oficial gubernamental ni pertenece a ninguna entidad de gobierno por lo que los cálculos son realizados con la información de dominio público con respecto a la Ley Federal del Trabajo en México, por lo cual, no tiene ninguna validez ni fundamento legal u oficial de gobierno, ni de ningún otro tipo de validez legal.
+
+
 ### Preguntas y Contacto
 Si tiene alguna pregunta o inquietud sobre nuestra Política de Privacidad o sobre el uso de la Aplicación, puede ponerse en contacto con nosotros a través de bisontek.mc@gmail.com.
 
